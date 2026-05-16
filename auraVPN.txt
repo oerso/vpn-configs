@@ -1,4 +1,4 @@
-# profile-title: EaveVPN | 🏳️ Белый список
+# profile-title: AuraVPN | Белые списки
 # profile-update-interval: 1
 # Date/Time: 2026-05-16 18:42:39
 # Количество: 88
