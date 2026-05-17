@@ -181,3 +181,30 @@ vless://778fb84e-9124-4db3-b9c8-dbe55c9a5d7a@84.201.138.66:443?encryption=none&f
 vless://778fb84e-9124-4db3-b9c8-dbe55c9a5d7a@195.42.232.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.kosmosapp.ru&fp=qq&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e&type=tcp#GB ^~1~^
 vless://778fb84e-9124-4db3-b9c8-dbe55c9a5d7a@84.201.167.108:18443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mtsz.ru&fp=qq&pbk=QCwVfhQBQcZlu1J2fVMuV2ckqlAP1gxDmVqSkAoBQzw&sid=d0a1665d1b96515e&type=tcp#GB_BP ^~1~^
 vless://778fb84e-9124-4db3-b9c8-dbe55c9a5d7a@84.201.138.66:18443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mtsz.ru&fp=qq&pbk=QCwVfhQBQcZlu1J2fVMuV2ckqlAP1gxDmVqSkAoBQzw&sid=d0a1665d1b96515e&type=tcp#GB_BP ^~2~^
+# ==================== АЛБАНИЯ ====================
+vless://8abf8c05-b066-4fb8-b0a9-0cf4e3b2c2e6@alb04.abvpn.ru:443?security=reality&encryption=none&pbk=eJcZVdx_DesUWYkt6Jlt_E7xqD-JLkdO_tOt3jG9a3g&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&sni=speed.cloudflare.com&sid=f768a3ff#🇦🇱 Албания 1
+
+# ==================== ЕВРОПА (ОБХОД) ====================
+vless://c398330a-adc8-4e66-8e8b-c27839107a21@84.201.171.234:443?security=reality&encryption=none&pbk=Ifx8KEYrd9lGS46e1nsfhhC_PGaW444Vq4ShECJRV1E&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0f4dacf08722a04f#🇪🇺 Европа 1
+vless://7a36ff3b-9571-407c-95c0-9f6d57177c20@82.22.40.191:59999?security=reality&encryption=none&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=6ba85179#🇪🇺 Европа 2
+vless://7a36ff3b-9571-407c-95c0-9f6d57177c20@144.124.229.158:48444?security=reality&encryption=none&pbk=FApUbcJurXfV5Y3PG2xRycl1R7y0CxwmUU7FRgUpzG0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=6ba85179#🇪🇺 Европа 3
+
+# ==================== КИПР ====================
+vless://d85c0146-b0d4-4a1b-a372-08fd5ac1d3e8@most-cy.harknmav.fun:443?security=reality&encryption=none&pbk=BkQP5K_b-8lshJciihVQa4SbEWu-g51DzlVGndzwc2w&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4e752b0d4d15e0f9#🇨🇾 Кипр 1
+
+# ==================== НИДЕРЛАНДЫ ====================
+vless://f374a660-2dc5-11f1-9ec5-baabcd4be2cd@45.143.167.154:8443?security=reality&encryption=none&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=deadbeef42#🇳🇱 Нидерланды 1
+
+# ==================== ОАЭ (ДУБАЙ) ====================
+vless://d85c0146-b0d4-4a1b-a372-08fd5ac1d3e8@most-ae.harknmav.fun:443?security=reality&encryption=none&pbk=Yc8UKKVXZed7fz1yxWOzBamSns-_t3thFdHr8DIzkyc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4e352b0d4d15e0f9#🇦🇪 ОАЭ 1
+
+# ==================== РОССИЯ ====================
+vless://8abf8c05-b066-4fb8-b0a9-0cf4e3b2c2e6@ru50.theabvp.org:4443?security=reality&encryption=none&pbk=8JaJV9a6AAnFUiuxGQU1JZI3SIlS38HranlKMt1Ydh0&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&sni=sun6-21.userapi.com&sid=b2897d9f#🇷🇺 Россия 1
+vless://c7dcbf7a-74f4-4202-87fc-aa4d94239a8d@ru-node-5.mrammor.com:443?security=reality&encryption=none&pbk=BAq9vtlgx7aCUv9cSd2QiqYG_qItoxoPgY8-GI7WXXw&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru#🇷🇺 Россия 2 (LTE)
+
+# ==================== США ====================
+vless://8abf8c05-b066-4fb8-b0a9-0cf4e3b2c2e6@usa08.abvpn.net:443?security=reality&encryption=none&pbk=iEPoYfUV6mQHciN9wIrjkOU-tKC4GXLl0DG45iDjAiQ&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&sni=www.samsung.com&sid=336f5dba#🇺🇸 США 1
+
+# ==================== ДОПОЛНИТЕЛЬНЫЕ (ОБЛАКО / БЕЛЫЙ СПИСОК) ====================
+vless://34d970f9-faea-4856-815c-2db6050ca2b7@base.oblakovpn.org:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=78523b486884cc4d#🌍 Облако 1
+vless://34d970f9-faea-4856-815c-2db6050ca2b7@95.163.210.151:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=78523b486884cc4d#⭐ Белый список 1
