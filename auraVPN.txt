@@ -332,5 +332,122 @@ vless://2969ab5f-4ad4-4d38-a536-fb1529990ebb@212.80.8.212:38941?encryption=none&
 vless://34d970f9-faea-4856-815c-2db6050ca2b7@base.oblakovpn.org:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=78523b486884cc4d#🌍Облако 1
 #⭐БелыйСписок 1
 vless://34d970f9-faea-4856-815c-2db6050ca2b7@95.163.210.151:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=78523b486884cc4d#⭐БелыйСписок 1
+# ==================== ЧЁРНЫЙ СПИСОК (AuraVPN BL) ====================
+# ==================== 🇧🇦 Босния ====================
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.231:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D403880e.default.microsoft.is%3A164892#🇧🇦 Босния BL 1
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top#🇧🇦 Босния BL 2
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top#🇧🇦 Босния BL 3
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top#🇧🇦 Босния BL 4
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top&insecure=1#🇧🇦 Босния BL 5
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@us2.duckfree.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun1-18.userapi.com&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#🇧🇦 Босния BL 6
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru43.mechvpn.online:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇧🇦 Босния BL 7
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru43.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ru43.mechvpn.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=1#🇧🇦 Босния BL 8
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru43.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=ru43.mechvpn.online&alpn=h3,h2,http/1.1#🇧🇦 Босния BL 9
+vless://f8eaf16d-14ac-4c8d-990b-8e49f9b1fc2c@188.225.46.176:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=9vV8MOvj1UAEXRcvy7BOFCeYSlsC9RJtNBm7Oun0tic&sid=0277c306ebdaa58f&sni=hello.opengate.tech#🇧🇦 Босния BL 10
 
-# ==================== 🏴 ЧЁРНЫЙ СПИСОК (BL) ====================
+# ==================== 🇫🇷 Франция ====================
+hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 Франция BL 1
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 Франция BL 2
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&fp=firefox&type=ws&path=%2Fassignment&host=www.calmlunch.com#🇫🇷 Франция BL 3
+trojan://humanity@185.18.250.252:443?allowInsecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 Франция BL 4
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.86.74.34:443?type=xhttp&encryption=none&path=/&mode=auto&security=reality&pbk=xfnZ3LY3YHQJmj0QF2UVY9etH6yMMlLdluY2OUq0Mz4&fp=firefox&sni=google.com&sid=a847e348#🇫🇷 Франция BL 5
+
+# ==================== 🇩🇪 Германия ====================
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@auto.duckfree.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun1-16.userapi.com&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#🇩🇪 Германия BL 1
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@auto.duckfree.online:8443?type=xhttp&headerType=none&security=reality&encryption=none&sni=sun1-16.userapi.com&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&sid=76ed77cc&path=%2F&host=auto.duckfree.online#🇩🇪 Германия BL 2
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@az.auto.duckfree.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun1-16.userapi.com&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#🇩🇪 Германия BL 3
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@az5.duckfree.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun1-18.userapi.com&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#🇩🇪 Германия BL 4
+vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&sid=5d&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия BL 5
+
+# ==================== 🇳🇱 Нидерланды ====================
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@63.250.57.232:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun9-88.userapi.com&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#🇳🇱 Нидерланды BL 1
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@server30.duckvpn.app:8443?path=%2F&security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&host=server30.duckvpn.app&fp=chrome&type=xhttp&sni=sun1-18.userapi.com&sid=8b2492#🇳🇱 Нидерланды BL 2
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@nl.auto.duckfree.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun1-18.userapi.com&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#🇳🇱 Нидерланды BL 3
+vless://a3a72164-5769-4a49-b8c9-347a223feebf@94.156.154.130:26514?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wea2jSrs5Q-bYs8TV7t23iCeBoC5LyPmV0qoOra1aRk&sid=d1f4c253a976&sni=www.microsoft.com&spx=/#🇳🇱 Нидерланды BL 4
+vless://da4caa7b-8215-4ac8-8356-961e8ffd0160@77.239.112.35:13639?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=_5cqPSR4S7l18nxkwVzc8xyzWsWFj2RkPLZJOn-O_RQ&sid=fe564a&sni=www.microsoft.com&spx=/#🇳🇱 Нидерланды BL 5
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@5.253.59.99:2443?type=grpc&security=reality&sni=academy.nvidia.com&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&sid=a1b2c3d4&serviceName=TestChatGRPC#🇳🇱 Нидерланды BL 6
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@5.253.59.99:3443?type=xhttp&security=tls&sni=vpnnl1.potatosubge20.org&fp=chrome&path=/xhttp#🇳🇱 Нидерланды BL 7
+
+# ==================== 🇵🇱 Польша ====================
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p10.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p10.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 1
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p11.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p11.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 2
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p12.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p12.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 3
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p13.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p13.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 4
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p14.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p14.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 5
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p15.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p15.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 6
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p2.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p2.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 7
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p4.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p4.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 8
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p5.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p5.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 9
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p6.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p6.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 10
+vless://1a17fbd6-a54f-456c-8e71-5282893e2b69@p8.hdlowstream.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=p8.hdlowstream.com&fp=randomized&pbk=mTuT_isp316_u36EzJ2uqBdcj6VCD8LSq39mTO2vrzM&sid=93ed7d916252d203&flow=xtls-rprx-vision#🇵🇱 Польша BL 11
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@2.59.163.98:3443?type=xhttp&security=tls&sni=vpnpl.potatosubge20.org&fp=chrome&path=/xhttp#🇵🇱 Польша BL 12
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@45.140.204.100:443?type=xhttp&security=tls&sni=pldamn.potatosubge20.org&fp=chrome&path=/xhttp#🇵🇱 Польша BL 13
+
+# ==================== 🇸🇬 Сингапур ====================
+vless://af6904c1-4349-4448-8e99-0024824a0c33@sgxi.959555.xyz:10000?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=gateway.icloud.com&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&sid=3b0b73e5#🇸🇬 Сингапур BL 1
+vless://af6904c1-4349-4448-8e99-0024824a0c33@sgxi.959555.xyz:10000?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&sid=3b0b73e5&sni=gateway.icloud.com&quicSecurity=none#🇸🇬 Сингапур BL 2
+
+# ==================== 🇺🇸 США ====================
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@121.153.34.206:29999?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560%3Btls%3Bmux%3D0%3Bobfs%3Dwebsocket%3Bobfs-host%3Dwoshinidie-et3.pages.dev#🇺🇸 США BL 1
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@125.138.95.125:10000?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560%3Btls%3Bmux%3D0%3Bobfs%3Dwebsocket%3Bobfs-host%3Dwoshinidie-et3.pages.dev#🇺🇸 США BL 2
+trojan://162534@103.45.246.200:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F#🇺🇸 США BL 3
+trojan://162534@146.19.84.90:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#🇺🇸 США BL 4
+trojan://162534@146.19.84.90:2053?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=%2F#🇺🇸 США BL 5
+trojan://162534@156.246.94.155:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇺🇸 США BL 6
+trojan://162534@185.22.175.125:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#🇺🇸 США BL 7
+trojan://162534@193.148.58.153:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#🇺🇸 США BL 8
+trojan://162534@217.60.248.94:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇺🇸 США BL 9
+trojan://162534@46.32.186.176:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#🇺🇸 США BL 10
+trojan://162534@91.218.143.126:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#🇺🇸 США BL 11
+vless://26524cce-d514-4014-a426-365fb266a14d@188.137.224.107:443?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560fp%3Dfirefox&host=urg0.edge-node-us.danfeng.bond&sni=urg0.edge-node-us.danfeng.bond&fp=chrome#🇺🇸 США BL 12
+vless://26524cce-d514-4014-a426-365fb266a14d@114.108.43.4:11235?&security=tls&fp=chrome&sni=urg0.edge-node-us.danfeng.bond&type=ws&headerType=none&host=urg0.edge-node-us.danfeng.bond&path=%2Fdanfeng%3Fed%3D2560fp%3Dfirefox#🇺🇸 США BL 13
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.144.50:8880?host=vms.lifetime34.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#🇺🇸 США BL 14
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#🇺🇸 США BL 15
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.30:8880?host=vms.lifetime20.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#🇺🇸 США BL 16
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@5.178.101.81:443?type=xhttp&security=tls&sni=tk2.potatosubge20.org&fp=chrome&path=/xhttp#🇺🇸 США BL 17
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@95.85.246.243:443?type=xhttp&security=reality&sni=swdist.apple.com&fp=chrome&pbk=kNYOckkqmPAiMSk0aUEsK6OUZh8ynJQe844ah295mys&sid=aabbccdd&path=/xhttp#🇺🇸 США BL 18
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@78.159.131.46:3443?type=xhttp&security=tls&sni=vpnalb.potatosubge20.org&fp=chrome&path=/xhttp#🇺🇸 США BL 19
+
+# ==================== 🇦🇪 ОАЭ ====================
+vless://5234854d-106b-41ee-8fc7-4acc6a1158a2@fi1.persik.host:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=XfPQWevD1SzZqZFH9OwgpZMtn32lXcGtHBL8HpTeazI&sid=895edc3d&sni=fi1.persik.host#🇦🇪 ОАЭ BL 1
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@9emh6n8eqe.spectrumproxy.shop:443?type=tcp&security=reality&sni=o2i1u3y4t5r.spectrumproxy.shop&fp=chrome&pbk=zpxbyw3Y0c--G-zox99d_W0cFCDOUoL50bK70DCY_x8&sid=1b5d7f9a1c2e&spx=%2F&flow=xtls-rprx-vision#🇦🇪 ОАЭ BL 2
+vless://86292625-69b1-4701-b00d-eae6e7f9b998@144.31.82.47:18038?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&sid=ce9f790791426d83&sni=www.microsoft.com&spx=/#🇦🇪 ОАЭ BL 3
+vless://95937e6d-ce76-4f20-bdb2-731a4d3757b0@85.192.48.86:443?type=grpc&security=reality&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=b196b8dbcf84efaa&sni=fi.moktana.app&serviceName=xyz#🇦🇪 ОАЭ BL 4
+vless://5fb4beab-89b7-48b4-9517-172a4221cbad@fl3-cloud.onnstreaming.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yHl_D4hqW8wkMkSE7zDwm9QBYxPhBjRO99Wd73kbtQE&sid=9b763beeb4b0f51c&sni=fl3-cloud.onnstreaming.ru#🇦🇪 ОАЭ BL 5
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa.spectrumproxy.shop:443?flow=xtls-rprx-vision&fp=chrome&pbk=XtQ3m_8a_LWCiVVEKu7cZxvJCdKnjShteUAtZ3EOlko&security=reality&sid=2a6f8c4d1e9a&sni=usa.spectrumproxy.shop&spx=%2F&type=tcp#🇦🇪 ОАЭ BL 6
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa.spectrumproxy.shop:443?type=tcp&security=reality&sni=usa.spectrumproxy.shop&fp=chrome&pbk=XtQ3m_8a_LWCiVVEKu7cZxvJCdKnjShteUAtZ3EOlko&sid=a3a7c2d9f1a4&spx=%2F&flow=xtls-rprx-vision#🇦🇪 ОАЭ BL 7
+
+# ==================== 🇬🇧 Великобритания ====================
+vless://3e4694ad-c0f8-4ddc-ba03-6222cbe5f988@gb.safepass.click:443?type=xhttp&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sni=www.samsung.com&mode=auto#🇬🇧 Великобритания BL 1
+vless://f4e827be-b114-45d9-9466-fb9b022ce412@78.159.131.46:3443?type=xhttp&security=tls&sni=vpnalb.potatosubge20.org&fp=chrome&path=/xhttp#🇬🇧 Великобритания BL 2
+
+# ==================== 🇨🇦 Канада ====================
+vless://749770a5-821e-4fe9-8af0-c0a8d42ff85f@150.241.83.60:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=xDFXqfhZ7-IQiFwXpXltNe2Axo5O33k4LAqDfAVtyz4&sid=7b&sni=www.icloud.com&spx=/#🇨🇦 Канада BL 1
+vless://ec13d921-3072-4e16-b2cd-af709f7f7894@150.241.83.60:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=xDFXqfhZ7-IQiFwXpXltNe2Axo5O33k4LAqDfAVtyz4&sid=7b&spx=%2F&flow=xtls-rprx-vision#🇨🇦 Канада BL 2
+
+# ==================== 🇦🇲 Армения ====================
+vless://5fb4beab-89b7-48b4-9517-172a4221cbad@87.120.126.23:443?flow=xtls-rprx-vision&security=reality&sni=de4-mwscloud.onnstreaming.ru&fp=random&pbk=0L2az4daQfRLsPZPMnDuU6VLA5yJWL3qIcOTfF3Sn2g&sid=70030fabf700a5d7&type=tcp&path=/#🇦🇲 Армения BL 1
+vless://9fdfb76e-e677-43b5-9856-97abcb7f778d@81.90.25.255:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=CWGfbuuzEV6_SOecdsIqgrvl1RjcRcemRdHjxWap1wc&sid=71d6a884d0a5&sni=www.icloud.com&spx=/#🇦🇲 Армения BL 2
+vless://f1233103-f7a8-42f1-b003-26c6dd391229@srv163.towersflowerss.com:443?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Армения BL 3
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@45.146.202.55:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun9-87.userapi.com&fp=firefox&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#🇦🇲 Армения BL 4
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@de.auto.duckfree.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&sni=sun1-16.userapi.com#🇦🇲 Армения BL 5
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?type=tcp&security=reality&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=google.com#🇦🇲 Армения BL 6
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8444?type=xhttp&headerType=none&security=reality&encryption=none&sni=google.com&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&path=%2F#🇦🇲 Армения BL 7
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8444?type=xhttp&security=reality&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=google.com&path=/#🇦🇲 Армения BL 8
+vless://f8eaf16d-14ac-4c8d-990b-8e49f9b1fc2c@95.85.233.234:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&sni=fastsync.xyz#🇦🇲 Армения BL 9
+
+# ==================== 🇦🇩 Андорра ====================
+vless://b17be5a0-efca-4604-ad7f-e0dd228b7a99@nl.go-vpn.club:443?type=tcp&headerType=none&security=reality&encryption=none&sni=gateway.icloud.com&fp=chrome&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5&flow=xtls-rprx-vision#🇦🇩 Андорра BL 1
+vless://bc9639fa-6600-43ff-9a43-eb34ad192810@cloud.globaledgenet.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloud.globaledgenet.com&fp=chrome&pbk=rRGPedMea32_bsWFx_fxQPy-50TOF6KbBAmYL2rkmQ4&flow=xtls-rprx-vision#🇦🇩 Андорра BL 2
+
+# ==================== 🇰🇿 Казахстан ====================
+vless://f8eaf16d-14ac-4c8d-990b-8e49f9b1fc2c@46.247.40.229:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mVdzom1e9afBTvsad76ZEsyQh9xSCZPUKo7CPPLaZAc&sid=196dad1410aa3891&sni=www.google.com#🇰🇿 Казахстан BL 1
+
+# ==================== 🇺🇦 Украина ====================
+vless://3e4694ad-c0f8-4ddc-ba03-6222cbe5f988@lt.safepass.click:443?type=xhttp&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sni=www.samsung.com&mode=auto#🇺🇦 Украина BL 1
+
+# ==================== 🇹🇷 Турция ====================
+vless://6784aee2-0dfe-474f-8446-480259ff9918@tr.safepass.click:443?fp=chrome&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=xhttp#🇹🇷 Турция BL 1
+
+# ==================== 🇮🇳 Индия ====================
+vless://79d6a159-67c8-4164-9534-89f103c81aaf@bez2.stream-room.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=bez2.stream-room.com&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&flow=xtls-rprx-vision#🇮🇳 Индия BL 1
